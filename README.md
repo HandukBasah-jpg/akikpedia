@@ -15,6 +15,9 @@ Dirancang dengan UI modern, animasi, dan splash screen menggunakan Lottie.
 ## Detail Batu
   ![image alt](https://github.com/HandukBasah-jpg/akikpedia/blob/61ef9ab4a013bc62ad557e540422c313d4748f69/Detail.png)
 
+# 🔗 Link GDrive Laporan dan Hasil Running Aplikasi
+https://drive.google.com/drive/u/0/folders/1zDk_7NX221Ze472NWrMn9UVpWx1Q1TuK
+
 
 ---
 
