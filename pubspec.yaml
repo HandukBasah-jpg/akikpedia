@@ -1,0 +1,32 @@
+name: galleryakikstone
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  google_fonts: ^6.2.1
+  lottie: ^2.7.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/bacan.jpg
+    - assets/images/kalimaya.jpg
+    - assets/images/lavender.jpg
+    - assets/images/redborneo.jpg
+    - assets/images/kecubung.jpg
+    - assets/images/safirmerah.jpg
+    - assets/images/safirbiru.jpg
+    - assets/images/zamrud.jpg
+    - assets/lottie/gem.json
+
