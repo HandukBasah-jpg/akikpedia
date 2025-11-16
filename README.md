@@ -2,6 +2,9 @@
 Aplikasi Flutter sederhana yang menampilkan berbagai jenis batu akik Indonesia.  
 Dirancang dengan UI modern, animasi, dan splash screen menggunakan Lottie.
 
+# 🧑‍🦲 Dibuat Oleh
+- Muhamad Zaki Riawan 232101258 (HandukBasah-jpg)
+
 ---
 
 ## 📱 Screenshot Aplikasi
