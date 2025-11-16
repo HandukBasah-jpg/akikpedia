@@ -7,12 +7,12 @@ Dirancang dengan UI modern, animasi, dan splash screen menggunakan Lottie.
 
 ---
 
-## 📱 Screenshot Aplikasi
-# Splash Screen
+# 📱 Screenshot Aplikasi
+## Splash Screen
   ![image alt](https://github.com/HandukBasah-jpg/akikpedia/blob/61ef9ab4a013bc62ad557e540422c313d4748f69/Splash.png)
-# Home Page
+## Home Page
   ![image alt](https://github.com/HandukBasah-jpg/akikpedia/blob/61ef9ab4a013bc62ad557e540422c313d4748f69/Home.png)
-# Detail Batu
+## Detail Batu
   ![image alt](https://github.com/HandukBasah-jpg/akikpedia/blob/61ef9ab4a013bc62ad557e540422c313d4748f69/Detail.png)
 
 
@@ -39,13 +39,3 @@ Dirancang dengan UI modern, animasi, dan splash screen menggunakan Lottie.
 - Animasi **scale** ketika batu ditekan  
 - Glow border pada batu terpilih  
 - UI modern dari Google Fonts  
-
-### 📂 5. Struktur File yang Rapi  
-- `main.dart` → App root + Theme  
-- `splash_screen.dart` → Animasi Lottie  
-- `home_page.dart` → UI halaman utama  
-- `data_batu.dart` → Model + data sample  
-
----
-
-## 📁 Struktur Folder
