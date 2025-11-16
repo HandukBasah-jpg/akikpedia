@@ -8,11 +8,11 @@ Dirancang dengan UI modern, animasi, dan splash screen menggunakan Lottie.
 ---
 
 ## 📱 Screenshot Aplikasi
-- Splash Screen
+# Splash Screen
   ![image alt](https://github.com/HandukBasah-jpg/akikpedia/blob/61ef9ab4a013bc62ad557e540422c313d4748f69/Splash.png)
-- Home Page
+# Home Page
   ![image alt](https://github.com/HandukBasah-jpg/akikpedia/blob/61ef9ab4a013bc62ad557e540422c313d4748f69/Home.png)
-- Detail Batu
+# Detail Batu
   ![image alt](https://github.com/HandukBasah-jpg/akikpedia/blob/61ef9ab4a013bc62ad557e540422c313d4748f69/Detail.png)
 
 
