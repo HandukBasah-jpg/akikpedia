@@ -1,4 +1,4 @@
-# 🌿 AkikStone – Koleksi Batu Akik Nusantara  
+# 🌿 Akikpedia – Koleksi Batu Akik Nusantara  
 Aplikasi Flutter sederhana yang menampilkan berbagai jenis batu akik Indonesia.  
 Dirancang dengan UI modern, animasi, dan splash screen menggunakan Lottie.
 
@@ -8,12 +8,16 @@ Dirancang dengan UI modern, animasi, dan splash screen menggunakan Lottie.
 ---
 
 # 📱 Screenshot Aplikasi
+
 ## Splash Screen
-  ![image alt](https://github.com/HandukBasah-jpg/akikpedia/blob/61ef9ab4a013bc62ad557e540422c313d4748f69/Splash.png)
+<img src="https://github.com/HandukBasah-jpg/akikipedia/blob/61ef9ab4a013bc62ad557e540422c313d44748f69/Splash.png" width="300">
+
 ## Home Page
-  ![image alt](https://github.com/HandukBasah-jpg/akikpedia/blob/61ef9ab4a013bc62ad557e540422c313d4748f69/Home.png)
+<img src="https://github.com/HandukBasah-jpg/akikipedia/blob/61ef9ab4a013bc62ad557e540422c313d44748f69/Home.png" width="300">
+
 ## Detail Batu
-  ![image alt](https://github.com/HandukBasah-jpg/akikpedia/blob/61ef9ab4a013bc62ad557e540422c313d4748f69/Detail.png)
+<img src="https://github.com/HandukBasah-jpg/akikipedia/blob/61ef9ab4a013bc62ad557e540422c313d44748f69/Detail.png" width="300">
+
 
 # 🔗 Link GDrive Laporan dan Hasil Running Aplikasi
 https://drive.google.com/drive/u/0/folders/1zDk_7NX221Ze472NWrMn9UVpWx1Q1TuK
