@@ -13,7 +13,7 @@ Dirancang dengan UI modern, animasi, dan splash screen menggunakan Lottie.
 <img src="https://raw.githubusercontent.com/HandukBasah-jpg/akikipedia/61ef9ab4a013bc62ad557e540422c313d44748f69/Splash.png" width="300">
 
 ## Home Page
-<img src="https://raw.githubusercontent.com/HandukBasah-jpg/akikipedia/61ef9ab4a013bc62ad557e540422c313d44748f69/Home.png" width="300">
+<img src="https://github.com/HandukBasah-jpg/akikpedia/blob/6ff636c9a4e69446fa0efcd302f3b75af9eed34f/Home.png" width="300">
 
 ## Detail Batu
 <img src="https://github.com/HandukBasah-jpg/akikpedia/blob/07620fe4e5d021cbb92bd04d166ce74fe78d50f1/Detail.png" width="300">
